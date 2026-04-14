@@ -5,6 +5,13 @@
 
 uv.lock
 
+.idea
+
+__pychcarm_history/
+__pycache__/
+.DS_Store
+__pycache*/
+
 docs
 docs/_book
 
