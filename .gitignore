@@ -3,6 +3,8 @@
 #
 # Recommended template: Node.gitignore
 
+uv.lock
+
 docs
 docs/_book
 
